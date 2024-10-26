@@ -1,0 +1,29 @@
+{
+  "locales": {
+    "en": {
+      "bannerText": "Get 1000 extra free followers just by sharing our website on Facebook!",
+      "offerdiscount13": "Get up to 50% off on subscriptions: Design, Entertainment, and more.",
+      "earnPoints": "Spend $75 to earn 500 points for $10 off your future purchase. Use code: EARNMORE"
+    },
+    "ar": {
+      "bannerText": "احصل على 1000 متابع إضافي مجانًا فقط بمشاركة موقعنا على فيسبوك!",
+      "offerdiscount13": "احصل على خصم يصل إلى 50٪ على الاشتراكات: التصميم، الترفيه والمزيد.",
+      "earnPoints": "أنفق 75 دولارًا لكسب 500 نقطة للحصول على خصم 10 دولارات على عملية الشراء المستقبلية. استخدم الرمز: EARNMORE"
+    },
+    "fr": {
+      "bannerText": "Obtenez 1000 abonnés gratuits supplémentaires en partageant simplement notre site Web sur Facebook !",
+      "offerdiscount13": "Obtenez jusqu'à 50 % de réduction sur les abonnements : Design, Divertissement et plus.",
+      "earnPoints": "Dépensez 75 $ pour gagner 500 points pour 10 $ de réduction sur votre prochain achat. Utilisez le code : EARNMORE"
+    },
+    "es": {
+      "bannerText": "¡Obtén 1000 seguidores adicionales gratis solo compartiendo nuestro sitio web en Facebook!",
+      "offerdiscount13": "Obtén hasta un 50 % de descuento en suscripciones: Diseño, Entretenimiento y más.",
+      "earnPoints": "Gasta $75 para ganar 500 puntos por $10 de descuento en tu próxima compra. Usa el código: EARNMORE"
+    }
+  },
+  "default": {
+    "bannerText": "Get 1000 extra free followers just by sharing our website on Facebook!",
+    "offerdiscount13": "Get up to 50% off on subscriptions: Design, Entertainment, and more.",
+    "earnPoints": "Spend $75 to earn 500 points for $10 off your future purchase. Use code: EARNMORE"
+  }
+}
